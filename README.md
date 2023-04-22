@@ -31,3 +31,5 @@ https://learn.microsoft.com/en-us/azure/logic-apps/test-logic-apps-mock-data-sta
 
 ![image](https://user-images.githubusercontent.com/43515480/229985685-0280e027-443e-48c8-94d8-1a08ff46db05.png)
 
+Error handling:
+https://learn.microsoft.com/en-us/azure/logic-apps/logic-apps-exception-handling?tabs=consumption
