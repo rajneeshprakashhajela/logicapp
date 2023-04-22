@@ -33,3 +33,5 @@ https://learn.microsoft.com/en-us/azure/logic-apps/test-logic-apps-mock-data-sta
 
 Error handling:
 https://learn.microsoft.com/en-us/azure/logic-apps/logic-apps-exception-handling?tabs=consumption
+
+https://www.serverless360.com/blog/logic-app-error-handling-configure-run-after-settings
