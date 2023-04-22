@@ -38,3 +38,12 @@ https://www.serverless360.com/blog/logic-app-error-handling-configure-run-after-
 
 <h2>Security in Logic app:</h2>
 https://www.tech-findings.com/2020/02/securing-logic-app-with-azure-active-directory.html
+
+
+
+Example:
+![image](https://user-images.githubusercontent.com/43515480/233761091-482a5c23-740b-4fc2-9cc9-b435ffb2bbce.png)
+![image](https://user-images.githubusercontent.com/43515480/233761154-26f4a9d1-3228-46d1-895f-88fbf1d4bba7.png)
+
+![image](https://user-images.githubusercontent.com/43515480/233761177-ac277bb7-c217-49c2-b6cd-e382c136b963.png)
+
