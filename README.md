@@ -31,7 +31,10 @@ https://learn.microsoft.com/en-us/azure/logic-apps/test-logic-apps-mock-data-sta
 
 ![image](https://user-images.githubusercontent.com/43515480/229985685-0280e027-443e-48c8-94d8-1a08ff46db05.png)
 
-Error handling:
+<h2>Error handling:</h2>
 https://learn.microsoft.com/en-us/azure/logic-apps/logic-apps-exception-handling?tabs=consumption
 
 https://www.serverless360.com/blog/logic-app-error-handling-configure-run-after-settings
+
+<h2>Security in Logic app:</h2>
+https://www.tech-findings.com/2020/02/securing-logic-app-with-azure-active-directory.html
