@@ -50,3 +50,11 @@ Example:
 ![image](https://user-images.githubusercontent.com/43515480/233763375-e13f3703-7384-42ad-8c28-5e4a93fab1af.png)
 
 ![image](https://user-images.githubusercontent.com/43515480/233763389-0b657793-6f81-4c99-9926-467aebf0bef5.png)
+
+via Firewall (need to use azure event grid because firewall will not allow)
+
+![image](https://user-images.githubusercontent.com/43515480/233763469-1a9c29f2-abe1-43c6-ad66-63dc02b1127c.png)
+![image](https://user-images.githubusercontent.com/43515480/233763493-854f5531-f908-4ced-82e3-75d3c1425645.png)
+![image](https://user-images.githubusercontent.com/43515480/233763499-51d40b6e-1ef8-48d5-8e88-05922cc87d1b.png)
+![image](https://user-images.githubusercontent.com/43515480/233763508-2b0243b5-c78f-4b24-9096-fe44f21bb32e.png)
+![image](https://user-images.githubusercontent.com/43515480/233764861-8e947401-ee54-4d99-8416-c9be28ce5b98.png)
