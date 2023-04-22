@@ -4,6 +4,8 @@ Apps, Data, Services <br/>
 ![image](https://user-images.githubusercontent.com/43515480/233756923-9a73e24e-e683-47ab-bf1b-1d6add46a519.png)
 https://www.serverless360.com/blog/when-to-use-logic-apps-and-azure-functions
 
+logic app multipe trigger:
+![image](https://user-images.githubusercontent.com/43515480/233757551-09045410-8e33-4540-a633-670deb8d154e.png)
 
 
 
