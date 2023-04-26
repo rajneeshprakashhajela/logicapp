@@ -64,3 +64,13 @@ via Firewall (need to use azure event grid because firewall will not allow)
 ![image](https://user-images.githubusercontent.com/43515480/233763508-2b0243b5-c78f-4b24-9096-fe44f21bb32e.png)
 ![image](https://user-images.githubusercontent.com/43515480/233764861-8e947401-ee54-4d99-8416-c9be28ce5b98.png)
 ![image](https://user-images.githubusercontent.com/43515480/233765341-dd345b82-c45d-464d-a149-6ed2e7e77287.png)
+
+
+Logic Apps Timeout Issue — Solved
+
+https://medium.com/@priyankabhakuni1/logic-apps-timeout-issue-solved-3307f45fd682
+![image](https://user-images.githubusercontent.com/43515480/234470635-2dda5dd4-36db-428e-8b82-97820b4ea615.png)
+![image](https://user-images.githubusercontent.com/43515480/234471098-2af67261-25c0-44a6-9ca1-bf77d6e9c1f0.png)
+![image](https://user-images.githubusercontent.com/43515480/234471193-c890d251-999d-4a88-b551-a81ebc8643c0.png)
+
+Contract betwene client and server if server get info then he will send.
