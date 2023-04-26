@@ -7,6 +7,8 @@ https://www.serverless360.com/blog/when-to-use-logic-apps-and-azure-functions
 logic app multipe trigger:
 ![image](https://user-images.githubusercontent.com/43515480/233757551-09045410-8e33-4540-a633-670deb8d154e.png)
 
+![image](https://user-images.githubusercontent.com/43515480/234466515-bea39d20-5cff-4735-b026-be676699383d.png)
+
 Delay then
 https://learn.microsoft.com/en-us/azure/connectors/connectors-native-delay
 ![image](https://user-images.githubusercontent.com/43515480/234466282-831314c5-c5df-4663-b9c3-e9a046ed7517.png)
