@@ -1,3 +1,8 @@
+https://learn.microsoft.com/en-us/azure/logic-apps/logic-apps-exception-handling?tabs=consumption
+![image](https://github.com/rajneeshprakashhajela/logicapp/assets/43515480/ad55f615-8f7a-43ed-a1ff-cfe08a2aac42)
+![image](https://github.com/rajneeshprakashhajela/logicapp/assets/43515480/ecf250ce-12b9-4dd9-9936-a0f28efb394f)
+
+
 ![image](https://user-images.githubusercontent.com/43515480/233756923-9a73e24e-e683-47ab-bf1b-1d6add46a519.png)
 <h1>Azure Logic app Example 1 </h1>
 Schedule, Automate, Orchestration, Business process, Workflow<br/>
