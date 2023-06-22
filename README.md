@@ -1,6 +1,7 @@
 https://www.freecodecamp.org/news/making-sense-of-azure-durable-functions/
 https://github.com/asc-lab/azure-functions-billing/blob/master/README.md
 
+![image](https://github.com/rajneeshprakashhajela/logicapp/assets/43515480/56bb90e5-4aff-4e72-829f-689019c0cfb8)
 
 
 https://learn.microsoft.com/en-us/azure/logic-apps/logic-apps-exception-handling?tabs=consumption
